@@ -55,3 +55,5 @@ cafeteria-cli/
    0. 🔙 Voltar
 
 Dentro desse reposotório esta a documentação completo do código.
+
+Grupo - Vitor Augusto. Victor Gabriel e Peterson Ruivo.
