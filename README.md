@@ -19,7 +19,7 @@ Sistema Operacional: Windows, Linux ou macOS (testado em Windows 10/11)
 
 Clone o repositório:
 
-git clone https://github.com/seuusuario/cafeteria-cli.git
+git clone https://github.com/Vitor-ALucn/cafeteria-cli.git
 cd cafeteria-cli
 
 Instale as dependências:
@@ -55,3 +55,5 @@ cafeteria-cli/
    0. 🔙 Voltar
 
 Dentro desse reposotório esta a documentação completo do código.
+
+Grupo - Vitor Augusto. Victor Gabriel e Peterson Ruivo.
